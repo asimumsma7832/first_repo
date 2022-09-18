@@ -1,6 +1,8 @@
 # I am in a Git session.
 # Writing 2nd sentence.
 
+OK
+
 # Contents
 
 [Heading](#1-headings)\
