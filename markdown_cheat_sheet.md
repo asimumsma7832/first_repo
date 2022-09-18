@@ -2,7 +2,12 @@
 # Writing 2nd sentence.
 
 OK
+
 beta = Asim
+
+alpha = Asim
+
+
 # Contents
 
 [Heading](#1-headings)\
