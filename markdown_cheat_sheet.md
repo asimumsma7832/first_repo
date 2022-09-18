@@ -1,3 +1,5 @@
+I am in a Git session.
+
 # Contents
 
 [Heading](#1-headings)\
