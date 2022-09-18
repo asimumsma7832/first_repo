@@ -1,4 +1,5 @@
-I am in a Git session.
+# I am in a Git session.
+# Writing 2nd sentence.
 
 # Contents
 
